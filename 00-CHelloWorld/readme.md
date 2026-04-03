@@ -1,1 +1,3 @@
-Esta es la carpeta para iniciar el TP0!
+Compilador seleccionado: GCC (vía MSYS2)
+Versión del compilador: 15.2.0
+Versión de C: C23
